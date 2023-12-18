@@ -1,6 +1,3 @@
-Employee ID: T2551 <br>
-Employee Name: Varun Sharma
-
 # Employee/Department Management Based CRUD APIs
 
 This project contains employee informations and perform CRUD APIs
